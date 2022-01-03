@@ -1,0 +1,9 @@
+@media (max-width:600px) {
+  main {
+    flex-direction: column;
+  }
+
+  section:nth-of-type(1) {
+    order: 1;
+  }
+}
